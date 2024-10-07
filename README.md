@@ -1,2 +1,2 @@
 # Alarm-clock
-It is Alarm clock which be run on browser.
+It is Alarm clock which will run on browser.
